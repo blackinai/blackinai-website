@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9cd915c1f2dde3cd79ef3f71506c920",
+    "revision": "4d5f67f27732f766f56374b16dc48a5d",
     "url": "/index.html"
   },
   {
-    "revision": "dab925902f34cc1e1b7d",
+    "revision": "3971268929e565661d7e",
     "url": "/static/css/main.39d74b0a.chunk.css"
   },
   {
-    "revision": "64c1983217f3d0840359",
-    "url": "/static/js/2.aac80bd9.chunk.js"
+    "revision": "6bdf09d32a476a4d6089",
+    "url": "/static/js/2.31cd4ea8.chunk.js"
   },
   {
     "revision": "d92352f3240d582e24240d523f35c7b2",
-    "url": "/static/js/2.aac80bd9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.31cd4ea8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dab925902f34cc1e1b7d",
-    "url": "/static/js/main.b2567021.chunk.js"
+    "revision": "3971268929e565661d7e",
+    "url": "/static/js/main.4124272f.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -36,6 +36,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/BrandeisMarshall.b1b79cac.jpg"
   },
   {
+    "revision": "eb368c2b8d46cbbd2e488e0937244f46",
+    "url": "/static/media/CallForPapers2017.eb368c2b.md"
+  },
+  {
+    "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
+    "url": "/static/media/CallForPapers2018.b6a3711f.md"
+  },
+  {
+    "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
+    "url": "/static/media/CallForPapers2019.b6a3711f.md"
+  },
+  {
     "revision": "de6e3266fe71ba841ce39cdb3de11dac",
     "url": "/static/media/CharlesIsbell.de6e3266.jpg"
   },
@@ -46,6 +58,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7143c736a3bdca82744c68094b3cbde7",
     "url": "/static/media/EzinneNwanko.7143c736.jpg"
+  },
+  {
+    "revision": "c36c2459bdcd20729906c90fc2adf3ad",
+    "url": "/static/media/Grants2017.c36c2459.md"
+  },
+  {
+    "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
+    "url": "/static/media/Grants2018.b6a3711f.md"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/static/media/Grants2019.d41d8cd9.md"
   },
   {
     "revision": "f3b1bbd269dc0c3f80d27cb5dbc93652",
@@ -70,6 +94,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a99cc4513593d1f1221a32bc8ac11489",
     "url": "/static/media/MakindeAdeagbo.a99cc451.jpeg"
+  },
+  {
+    "revision": "7b944df9bb450bc86d414020998c32c6",
+    "url": "/static/media/Organizers2017.7b944df9.md"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/static/media/Organizers2018.d41d8cd9.md"
   },
   {
     "revision": "92384c8c4860e503f4b4c8d06f7641f0",
