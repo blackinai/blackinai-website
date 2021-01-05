@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ec5bd8efc9113f3d55b067aaa26c6fd",
+    "revision": "cc6e1d9c98ac79cc876f8611fba9f1ab",
     "url": "/blackinai-website/index.html"
   },
   {
-    "revision": "b6a25f26876c501f8f9d",
+    "revision": "12ff60f022c22a609e1e",
     "url": "/blackinai-website/static/css/main.39d74b0a.chunk.css"
   },
   {
-    "revision": "2efcc3c96f7405733d87",
-    "url": "/blackinai-website/static/js/2.7a8fe2bd.chunk.js"
+    "revision": "64c1983217f3d0840359",
+    "url": "/blackinai-website/static/js/2.aac80bd9.chunk.js"
   },
   {
     "revision": "d92352f3240d582e24240d523f35c7b2",
-    "url": "/blackinai-website/static/js/2.7a8fe2bd.chunk.js.LICENSE.txt"
+    "url": "/blackinai-website/static/js/2.aac80bd9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6a25f26876c501f8f9d",
-    "url": "/blackinai-website/static/js/main.58134088.chunk.js"
+    "revision": "12ff60f022c22a609e1e",
+    "url": "/blackinai-website/static/js/main.a39d4ccd.chunk.js"
   },
   {
     "revision": "07b4e5aa6fc1a6c3b490",

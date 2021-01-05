@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/blackinai-website/static/css/main.39d74b0a.chunk.css",
-    "main.js": "/blackinai-website/static/js/main.58134088.chunk.js",
-    "main.js.map": "/blackinai-website/static/js/main.58134088.chunk.js.map",
+    "main.js": "/blackinai-website/static/js/main.a39d4ccd.chunk.js",
+    "main.js.map": "/blackinai-website/static/js/main.a39d4ccd.chunk.js.map",
     "runtime-main.js": "/blackinai-website/static/js/runtime-main.209a0a3a.js",
     "runtime-main.js.map": "/blackinai-website/static/js/runtime-main.209a0a3a.js.map",
-    "static/js/2.7a8fe2bd.chunk.js": "/blackinai-website/static/js/2.7a8fe2bd.chunk.js",
-    "static/js/2.7a8fe2bd.chunk.js.map": "/blackinai-website/static/js/2.7a8fe2bd.chunk.js.map",
+    "static/js/2.aac80bd9.chunk.js": "/blackinai-website/static/js/2.aac80bd9.chunk.js",
+    "static/js/2.aac80bd9.chunk.js.map": "/blackinai-website/static/js/2.aac80bd9.chunk.js.map",
     "index.html": "/blackinai-website/index.html",
-    "precache-manifest.edb4c493e3402ec1906a9f791bdd2612.js": "/blackinai-website/precache-manifest.edb4c493e3402ec1906a9f791bdd2612.js",
+    "precache-manifest.57b48407303f8f22069255b3989b8555.js": "/blackinai-website/precache-manifest.57b48407303f8f22069255b3989b8555.js",
     "service-worker.js": "/blackinai-website/service-worker.js",
     "static/css/main.39d74b0a.chunk.css.map": "/blackinai-website/static/css/main.39d74b0a.chunk.css.map",
-    "static/js/2.7a8fe2bd.chunk.js.LICENSE.txt": "/blackinai-website/static/js/2.7a8fe2bd.chunk.js.LICENSE.txt",
+    "static/js/2.aac80bd9.chunk.js.LICENSE.txt": "/blackinai-website/static/js/2.aac80bd9.chunk.js.LICENSE.txt",
     "static/media/AcademicPrograms.md": "/blackinai-website/static/media/AcademicPrograms.dc5408e8.md",
     "static/media/AyannaHoward.jpg": "/blackinai-website/static/media/AyannaHoward.4d8bb838.jpg",
     "static/media/BrandeisMarshall.jpg": "/blackinai-website/static/media/BrandeisMarshall.b1b79cac.jpg",
@@ -42,8 +42,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.209a0a3a.js",
-    "static/js/2.7a8fe2bd.chunk.js",
+    "static/js/2.aac80bd9.chunk.js",
     "static/css/main.39d74b0a.chunk.css",
-    "static/js/main.58134088.chunk.js"
+    "static/js/main.a39d4ccd.chunk.js"
   ]
 }
