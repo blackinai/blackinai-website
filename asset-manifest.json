@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blackinai-website/static/css/main.39d74b0a.chunk.css",
-    "main.js": "/blackinai-website/static/js/main.a39d4ccd.chunk.js",
-    "main.js.map": "/blackinai-website/static/js/main.a39d4ccd.chunk.js.map",
+    "main.js": "/blackinai-website/static/js/main.1a7f9580.chunk.js",
+    "main.js.map": "/blackinai-website/static/js/main.1a7f9580.chunk.js.map",
     "runtime-main.js": "/blackinai-website/static/js/runtime-main.209a0a3a.js",
     "runtime-main.js.map": "/blackinai-website/static/js/runtime-main.209a0a3a.js.map",
     "static/js/2.aac80bd9.chunk.js": "/blackinai-website/static/js/2.aac80bd9.chunk.js",
     "static/js/2.aac80bd9.chunk.js.map": "/blackinai-website/static/js/2.aac80bd9.chunk.js.map",
     "index.html": "/blackinai-website/index.html",
-    "precache-manifest.57b48407303f8f22069255b3989b8555.js": "/blackinai-website/precache-manifest.57b48407303f8f22069255b3989b8555.js",
+    "precache-manifest.a716a27942ef5db72542cade8cff5a12.js": "/blackinai-website/precache-manifest.a716a27942ef5db72542cade8cff5a12.js",
     "service-worker.js": "/blackinai-website/service-worker.js",
     "static/css/main.39d74b0a.chunk.css.map": "/blackinai-website/static/css/main.39d74b0a.chunk.css.map",
     "static/js/2.aac80bd9.chunk.js.LICENSE.txt": "/blackinai-website/static/js/2.aac80bd9.chunk.js.LICENSE.txt",
@@ -44,6 +44,6 @@
     "static/js/runtime-main.209a0a3a.js",
     "static/js/2.aac80bd9.chunk.js",
     "static/css/main.39d74b0a.chunk.css",
-    "static/js/main.a39d4ccd.chunk.js"
+    "static/js/main.1a7f9580.chunk.js"
   ]
 }

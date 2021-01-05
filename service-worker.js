@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blackinai-website/precache-manifest.57b48407303f8f22069255b3989b8555.js"
+  "/blackinai-website/precache-manifest.a716a27942ef5db72542cade8cff5a12.js"
 );
 
 self.addEventListener('message', (event) => {
