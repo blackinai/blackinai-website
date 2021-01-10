@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4d5f67f27732f766f56374b16dc48a5d",
+    "revision": "db04560a699bf3a764b1aa88532971c5",
     "url": "/index.html"
   },
   {
-    "revision": "3971268929e565661d7e",
+    "revision": "0057b36983aecde6732b",
     "url": "/static/css/main.39d74b0a.chunk.css"
   },
   {
-    "revision": "6bdf09d32a476a4d6089",
-    "url": "/static/js/2.31cd4ea8.chunk.js"
+    "revision": "040865bc9369e42b4b9a",
+    "url": "/static/js/2.287ebe27.chunk.js"
   },
   {
     "revision": "d92352f3240d582e24240d523f35c7b2",
-    "url": "/static/js/2.31cd4ea8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.287ebe27.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3971268929e565661d7e",
-    "url": "/static/js/main.4124272f.chunk.js"
+    "revision": "0057b36983aecde6732b",
+    "url": "/static/js/main.9c7e182d.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -116,8 +116,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/TimnitGebru.a5f821a3.jpg"
   },
   {
+    "revision": "675d63cc0f750402370f9ce2254d70de",
+    "url": "/static/media/ai2.675d63cc.png"
+  },
+  {
+    "revision": "68ef85032c3815dc34d1ebe5ac437e4c",
+    "url": "/static/media/amazon.68ef8503.png"
+  },
+  {
     "revision": "3a1df6c1e0644b8b1a12219346c3f013",
     "url": "/static/media/appCurvyLines.3a1df6c1.png"
+  },
+  {
+    "revision": "deab0c9d44c793d66cf1d03999e66c4b",
+    "url": "/static/media/apple.deab0c9d.png"
   },
   {
     "revision": "2706d95fdf91aabdf8edc3a854b1914e",
@@ -148,12 +160,60 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bai-logo.44f8f823.png"
   },
   {
+    "revision": "a8552979bb08d3d33b0f9eb012ba916f",
+    "url": "/static/media/berkeley.a8552979.png"
+  },
+  {
+    "revision": "e2a270691aecf499d8d4ea43882ce9e1",
+    "url": "/static/media/bmo.e2a27069.png"
+  },
+  {
+    "revision": "d52cbd521926bfbec1fbe523bd9f34bc",
+    "url": "/static/media/deepmind.d52cbd52.png"
+  },
+  {
+    "revision": "29b3c91223eed57301fe4d1dda20e572",
+    "url": "/static/media/facebook.29b3c912.png"
+  },
+  {
+    "revision": "ed485acef91acfc6f322be4fb10059fc",
+    "url": "/static/media/fordfoundation.ed485ace.png"
+  },
+  {
+    "revision": "10588e251874bf5c9655289014073350",
+    "url": "/static/media/google.10588e25.png"
+  },
+  {
+    "revision": "d7160b32496828fdae3b9696276bd694",
+    "url": "/static/media/macArthur.d7160b32.png"
+  },
+  {
+    "revision": "88f779eacd44edb6ad2317f8e629ba76",
+    "url": "/static/media/microsoft.88f779ea.png"
+  },
+  {
     "revision": "cc0a0fc9974da505823219c2c9de187f",
     "url": "/static/media/montreal_convention_centre.cc0a0fc9.jpg"
   },
   {
+    "revision": "76e05a279f8f44d5d29a154da46ac7de",
+    "url": "/static/media/nvidia.76e05a27.png"
+  },
+  {
+    "revision": "ba87c66f5834bda10538d6750abf50d9",
+    "url": "/static/media/oracle.ba87c66f.png"
+  },
+  {
+    "revision": "a98fc3a79740a8dedbb3241940e64dab",
+    "url": "/static/media/partnershipAi.a98fc3a7.png"
+  },
+  {
     "revision": "1404bde904315962501808ebba96458c",
     "url": "/static/media/renaissance_long_beach_hotel.1404bde9.jpg"
+  },
+  {
+    "revision": "aa4948c05b4739b3530d43cfe0cb9b5c",
+    "url": "/static/media/salesforce.aa4948c0.png"
   },
   {
     "revision": "01aa3baecb7c8e9d66b619635dedf2ce",
