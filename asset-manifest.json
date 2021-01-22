@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.39215dbf.chunk.css",
-    "main.js": "/static/js/main.c7ab72f2.chunk.js",
-    "main.js.map": "/static/js/main.c7ab72f2.chunk.js.map",
+    "main.js": "/static/js/main.45a2c166.chunk.js",
+    "main.js.map": "/static/js/main.45a2c166.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
-    "static/js/2.13b89045.chunk.js": "/static/js/2.13b89045.chunk.js",
-    "static/js/2.13b89045.chunk.js.map": "/static/js/2.13b89045.chunk.js.map",
+    "static/js/2.679262ee.chunk.js": "/static/js/2.679262ee.chunk.js",
+    "static/js/2.679262ee.chunk.js.map": "/static/js/2.679262ee.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cf6dcb7a64d351977beb6269ef90d899.js": "/precache-manifest.cf6dcb7a64d351977beb6269ef90d899.js",
+    "precache-manifest.150dba6f1d05d176d7f850b46d691265.js": "/precache-manifest.150dba6f1d05d176d7f850b46d691265.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.39215dbf.chunk.css.map": "/static/css/main.39215dbf.chunk.css.map",
-    "static/js/2.13b89045.chunk.js.LICENSE.txt": "/static/js/2.13b89045.chunk.js.LICENSE.txt",
+    "static/js/2.679262ee.chunk.js.LICENSE.txt": "/static/js/2.679262ee.chunk.js.LICENSE.txt",
     "static/media/AcademicPrograms.md": "/static/media/AcademicPrograms.dc5408e8.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
     "static/media/BrandeisMarshall.jpg": "/static/media/BrandeisMarshall.b1b79cac.jpg",
@@ -52,6 +52,8 @@
     "static/media/facebook.png": "/static/media/facebook.29b3c912.png",
     "static/media/fordfoundation.png": "/static/media/fordfoundation.ed485ace.png",
     "static/media/google.png": "/static/media/google.10588e25.png",
+    "static/media/image2.jpg": "/static/media/image2.b92980bf.jpg",
+    "static/media/image3.jpg": "/static/media/image3.747c47bb.jpg",
     "static/media/macArthur.png": "/static/media/macArthur.d7160b32.png",
     "static/media/microsoft.png": "/static/media/microsoft.88f779ea.png",
     "static/media/montreal_convention_centre.jpg": "/static/media/montreal_convention_centre.cc0a0fc9.jpg",
@@ -66,8 +68,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.da3b7693.js",
-    "static/js/2.13b89045.chunk.js",
+    "static/js/2.679262ee.chunk.js",
     "static/css/main.39215dbf.chunk.css",
-    "static/js/main.c7ab72f2.chunk.js"
+    "static/js/main.45a2c166.chunk.js"
   ]
 }
