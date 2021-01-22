@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a101dc7487ad23680d827bcc932531b",
+    "revision": "c961f97be09795a53fead5f185869359",
     "url": "/index.html"
   },
   {
-    "revision": "ebe78fbac572b3ff3269",
+    "revision": "a6f4111524e2c0c775ad",
     "url": "/static/css/main.39215dbf.chunk.css"
   },
   {
-    "revision": "abdc459cf9d7c8860de0",
-    "url": "/static/js/2.47d91682.chunk.js"
+    "revision": "a6ee5a3b88d55195bf0a",
+    "url": "/static/js/2.13b89045.chunk.js"
   },
   {
     "revision": "d92352f3240d582e24240d523f35c7b2",
-    "url": "/static/js/2.47d91682.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.13b89045.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebe78fbac572b3ff3269",
-    "url": "/static/js/main.46d4ee98.chunk.js"
+    "revision": "a6f4111524e2c0c775ad",
+    "url": "/static/js/main.c7ab72f2.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -222,5 +222,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "908e06c1bb1c222c65273a5de7377b3a",
     "url": "/static/media/vancouver_neurips_2020.908e06c1.jpg"
+  },
+  {
+    "revision": "6fe923716ba03d01bd1cad0e2637fc36",
+    "url": "/static/media/young-black-women-talking.6fe92371.jpg"
   }
 ]);
