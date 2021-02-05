@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9dad0886dc2fc102975d5a4913bfbc0",
+    "revision": "c4525c3faa217961ca5de37feb8138be",
     "url": "/index.html"
   },
   {
-    "revision": "6df31542b167823821d0",
+    "revision": "9d90fb6464fdb1894dfc",
     "url": "/static/css/main.b6b4abd2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.679262ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6df31542b167823821d0",
-    "url": "/static/js/main.6bb7cbbe.chunk.js"
+    "revision": "9d90fb6464fdb1894dfc",
+    "url": "/static/js/main.901cab1e.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -176,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/facebook.29b3c912.png"
   },
   {
-    "revision": "ed485acef91acfc6f322be4fb10059fc",
-    "url": "/static/media/fordfoundation.ed485ace.png"
+    "revision": "3c97a11c4b1fce1cbfb390a78bca7d31",
+    "url": "/static/media/fordfoundation.3c97a11c.png"
   },
   {
     "revision": "10588e251874bf5c9655289014073350",
@@ -192,8 +192,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/image3.747c47bb.jpg"
   },
   {
-    "revision": "d7160b32496828fdae3b9696276bd694",
-    "url": "/static/media/macArthur.d7160b32.png"
+    "revision": "6918762bb95c7207297e8f7b4d0d69c4",
+    "url": "/static/media/macArthur.6918762b.png"
   },
   {
     "revision": "88f779eacd44edb6ad2317f8e629ba76",
@@ -212,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/oracle.ba87c66f.png"
   },
   {
-    "revision": "a98fc3a79740a8dedbb3241940e64dab",
-    "url": "/static/media/partnershipAi.a98fc3a7.png"
+    "revision": "25cffd4fa4d3be84192adbf7918ee935",
+    "url": "/static/media/partnershipAi.25cffd4f.png"
   },
   {
     "revision": "1404bde904315962501808ebba96458c",
