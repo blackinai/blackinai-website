@@ -1,4 +1,4 @@
-### Workshop Co-Chairs
+## Workshop Co-Chairs
 ---
 - Rediet Abebe, Cornell University
 - Sarah M. Brown, University of California, Berkeley

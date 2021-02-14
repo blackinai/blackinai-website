@@ -1,4 +1,4 @@
-### Travel Awards
+## Travel Awards
 ----
 Need-based travel grants will be awarded to workshop participants. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.
 

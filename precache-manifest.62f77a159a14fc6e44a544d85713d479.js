@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e067c4bd62152a5ccb143e19db4366a",
+    "revision": "d4889a63683acd983d329402091fee87",
     "url": "/index.html"
   },
   {
-    "revision": "4555f9c852542e9d2bc2",
+    "revision": "19f9781a6850a3487ca1",
     "url": "/static/css/main.b6b4abd2.chunk.css"
   },
   {
-    "revision": "82afc5c79f4b42d744da",
-    "url": "/static/js/2.c5befd24.chunk.js"
+    "revision": "9710e8372c3570b210e3",
+    "url": "/static/js/2.5f93a6e6.chunk.js"
   },
   {
     "revision": "d92352f3240d582e24240d523f35c7b2",
-    "url": "/static/js/2.c5befd24.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.5f93a6e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4555f9c852542e9d2bc2",
-    "url": "/static/js/main.5a2ce3c1.chunk.js"
+    "revision": "19f9781a6850a3487ca1",
+    "url": "/static/js/main.dae70c72.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/BrandeisMarshall.b1b79cac.jpg"
   },
   {
-    "revision": "eb368c2b8d46cbbd2e488e0937244f46",
-    "url": "/static/media/CallForPapers2017.eb368c2b.md"
+    "revision": "9636d44507b712391245d3d08f22429d",
+    "url": "/static/media/CallForPapers2017.9636d445.md"
   },
   {
-    "revision": "eb368c2b8d46cbbd2e488e0937244f46",
-    "url": "/static/media/CallForPapers2018.eb368c2b.md"
+    "revision": "1be48361f851aed64c3339e2fdb33f6c",
+    "url": "/static/media/CallForPapers2018.1be48361.md"
   },
   {
     "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/EzinneNwanko.7143c736.jpg"
   },
   {
-    "revision": "c36c2459bdcd20729906c90fc2adf3ad",
-    "url": "/static/media/Grants2017.c36c2459.md"
+    "revision": "bd330efcb216fcf08a38fb565de9be86",
+    "url": "/static/media/Grants2017.bd330efc.md"
   },
   {
     "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
@@ -96,12 +96,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MakindeAdeagbo.a99cc451.jpeg"
   },
   {
-    "revision": "7b944df9bb450bc86d414020998c32c6",
-    "url": "/static/media/Organizers2017.7b944df9.md"
+    "revision": "14992bd2ea1c435a7642929572a49851",
+    "url": "/static/media/Organizers2017.14992bd2.md"
   },
   {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/static/media/Organizers2018.d41d8cd9.md"
+    "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
+    "url": "/static/media/Organizers2018.b6a3711f.md"
+  },
+  {
+    "revision": "8d1d69915d5a207fc971864c1311c999",
+    "url": "/static/media/Programs2017.8d1d6991.md"
   },
   {
     "revision": "92384c8c4860e503f4b4c8d06f7641f0",
@@ -110,6 +114,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0f222171c3c985cd33ce310ab448dfac",
     "url": "/static/media/SanmiKoyejo.0f222171.png"
+  },
+  {
+    "revision": "83e76800e6881993385f2ea2efb437e7",
+    "url": "/static/media/Sponsors2017.83e76800.md"
+  },
+  {
+    "revision": "99f2a4bcd217e48a301b4e6a2c4e48fe",
+    "url": "/static/media/Submissions2017.99f2a4bc.md"
   },
   {
     "revision": "a5f821a357946bb371496a3b8a55aa36",

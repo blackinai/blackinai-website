@@ -3,9 +3,9 @@ The first Black in AI event will be co-located with NIPS 2017 in the Pike Ballro
 
 ### Important Dates
 ----
-October 13, 2017: Abstract submission deadline
-October 13, 2017: Travel grant application deadline
-October 29, 2017: Notification of acceptance
-October 31, 2017: Workshop registration deadline
-December 8th from 1:00pm-5:30pm: Workshop
-December 8th from 6:30pm-9:00pm: Dinner
+- October 13, 2017: Abstract submission deadline
+- October 13, 2017: Travel grant application deadline
+- October 29, 2017: Notification of acceptance
+- October 31, 2017: Workshop registration deadline
+- December 8th from 1:00pm-5:30pm: Workshop
+- December 8th from 6:30pm-9:00pm: Dinner
