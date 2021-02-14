@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.b6b4abd2.chunk.css",
-    "main.js": "/static/js/main.901cab1e.chunk.js",
-    "main.js.map": "/static/js/main.901cab1e.chunk.js.map",
+    "main.js": "/static/js/main.5a2ce3c1.chunk.js",
+    "main.js.map": "/static/js/main.5a2ce3c1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
-    "static/js/2.679262ee.chunk.js": "/static/js/2.679262ee.chunk.js",
-    "static/js/2.679262ee.chunk.js.map": "/static/js/2.679262ee.chunk.js.map",
+    "static/js/2.c5befd24.chunk.js": "/static/js/2.c5befd24.chunk.js",
+    "static/js/2.c5befd24.chunk.js.map": "/static/js/2.c5befd24.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d69724a4ce9889f33c1137df24092704.js": "/precache-manifest.d69724a4ce9889f33c1137df24092704.js",
+    "precache-manifest.fed262c5808dc7486d1dafe6a1e9a5be.js": "/precache-manifest.fed262c5808dc7486d1dafe6a1e9a5be.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b6b4abd2.chunk.css.map": "/static/css/main.b6b4abd2.chunk.css.map",
-    "static/js/2.679262ee.chunk.js.LICENSE.txt": "/static/js/2.679262ee.chunk.js.LICENSE.txt",
-    "static/media/AcademicPrograms.md": "/static/media/AcademicPrograms.dc5408e8.md",
+    "static/js/2.c5befd24.chunk.js.LICENSE.txt": "/static/js/2.c5befd24.chunk.js.LICENSE.txt",
+    "static/media/AcademicPrograms.md": "/static/media/AcademicPrograms.58f373c9.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
     "static/media/BrandeisMarshall.jpg": "/static/media/BrandeisMarshall.b1b79cac.jpg",
     "static/media/CallForPapers2017.md": "/static/media/CallForPapers2017.eb368c2b.md",
-    "static/media/CallForPapers2018.md": "/static/media/CallForPapers2018.b6a3711f.md",
+    "static/media/CallForPapers2018.md": "/static/media/CallForPapers2018.eb368c2b.md",
     "static/media/CallForPapers2019.md": "/static/media/CallForPapers2019.b6a3711f.md",
     "static/media/CharlesIsbell.jpg": "/static/media/CharlesIsbell.de6e3266.jpg",
     "static/media/DevinGuillory.jpg": "/static/media/DevinGuillory.32066185.jpg",
@@ -68,8 +68,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.da3b7693.js",
-    "static/js/2.679262ee.chunk.js",
+    "static/js/2.c5befd24.chunk.js",
     "static/css/main.b6b4abd2.chunk.css",
-    "static/js/main.901cab1e.chunk.js"
+    "static/js/main.5a2ce3c1.chunk.js"
   ]
 }

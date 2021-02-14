@@ -22,12 +22,12 @@ If you are interested in supporting us by volunteering your time as a mentor, do
 ` bai-acad-team@googlegroups.com `
 
 ### Organizers:
-- Rediet Abebe, Ph.D., Harvard University
+- Rediet Abebe, University of California at Berkeley
 - Moses Namara, Clemson University
 - Daniel Nkemelu, Georgia Institute of Technology
 - Ezinne Nwankwo, Duke University
 ### Faculty Advisors:
-- Rediet Abebe, Ph.D., Harvard University
+- Rediet Abebe, University of California at Berkeley
 - Sanmi Koyejo, Ph.D., University of Illinois, Urbana Champaign
 - Dina Machuve, Ph.D., Nelson Mandela African Institute of Science and Technology
 - Brandeis Marshall, Ph.D., Spelman College
