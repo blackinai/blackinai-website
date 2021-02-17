@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d4889a63683acd983d329402091fee87",
+    "revision": "45631f930107b3db9f8956c8d9f0ca80",
     "url": "/index.html"
   },
   {
-    "revision": "19f9781a6850a3487ca1",
+    "revision": "9ac0211f67e36e780216",
     "url": "/static/css/main.b6b4abd2.chunk.css"
   },
   {
-    "revision": "9710e8372c3570b210e3",
-    "url": "/static/js/2.5f93a6e6.chunk.js"
+    "revision": "e1aaf92113d88ff6e3a0",
+    "url": "/static/js/2.e7981457.chunk.js"
   },
   {
     "revision": "d92352f3240d582e24240d523f35c7b2",
-    "url": "/static/js/2.5f93a6e6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.e7981457.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19f9781a6850a3487ca1",
-    "url": "/static/js/main.dae70c72.chunk.js"
+    "revision": "9ac0211f67e36e780216",
+    "url": "/static/js/main.3462c027.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/BrandeisMarshall.b1b79cac.jpg"
   },
   {
-    "revision": "9636d44507b712391245d3d08f22429d",
-    "url": "/static/media/CallForPapers2017.9636d445.md"
+    "revision": "f9af329282995f5d3276d5aa549c007c",
+    "url": "/static/media/CallForPapers2017.f9af3292.md"
   },
   {
-    "revision": "1be48361f851aed64c3339e2fdb33f6c",
-    "url": "/static/media/CallForPapers2018.1be48361.md"
+    "revision": "9b28a24a4294ee69aeb680fb7303ae6f",
+    "url": "/static/media/CallForPapers2018.9b28a24a.md"
   },
   {
     "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Grants2017.bd330efc.md"
   },
   {
-    "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
-    "url": "/static/media/Grants2018.b6a3711f.md"
+    "revision": "bd18c01c9df7881bae4779ff4fcbe376",
+    "url": "/static/media/Grants2018.bd18c01c.md"
   },
   {
     "revision": "d41d8cd98f00b204e9800998ecf8427e",
@@ -100,12 +100,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Organizers2017.14992bd2.md"
   },
   {
-    "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
-    "url": "/static/media/Organizers2018.b6a3711f.md"
+    "revision": "399557f70823e42eab91c80c10885f7a",
+    "url": "/static/media/Organizers2018.399557f7.md"
   },
   {
-    "revision": "8d1d69915d5a207fc971864c1311c999",
-    "url": "/static/media/Programs2017.8d1d6991.md"
+    "revision": "2a5b5e6e2e8935fab1d0b453a5f2de68",
+    "url": "/static/media/Programs2017.2a5b5e6e.md"
+  },
+  {
+    "revision": "9760e8dda8f8e3aaaffec199746b4e8c",
+    "url": "/static/media/Programs2018.9760e8dd.md"
   },
   {
     "revision": "92384c8c4860e503f4b4c8d06f7641f0",
@@ -116,12 +120,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/SanmiKoyejo.0f222171.png"
   },
   {
-    "revision": "83e76800e6881993385f2ea2efb437e7",
-    "url": "/static/media/Sponsors2017.83e76800.md"
+    "revision": "377099a51e7a5eb50e331a6cdef5d2bf",
+    "url": "/static/media/Sponsors2017.377099a5.md"
   },
   {
-    "revision": "99f2a4bcd217e48a301b4e6a2c4e48fe",
-    "url": "/static/media/Submissions2017.99f2a4bc.md"
+    "revision": "50850b17b79049a948ed5080ebc19040",
+    "url": "/static/media/Sponsors2018.50850b17.md"
+  },
+  {
+    "revision": "0c34380cee0601818cce712112e07d4b",
+    "url": "/static/media/Submissions2017.0c34380c.md"
+  },
+  {
+    "revision": "1c91c0bca7adfd7042c77714f8c62cb4",
+    "url": "/static/media/Submissions2018.1c91c0bc.md"
   },
   {
     "revision": "a5f821a357946bb371496a3b8a55aa36",

@@ -1,6 +1,6 @@
 ## Programs 2017
-
-<details><summary><b>Schedule 2017</b></summary>
+---
+<details><summary><b>Schedule 2017</b> (click to open)</summary>
 
 
 <style type="text/css">
@@ -69,7 +69,7 @@
 
 </details>
 
-<details><summary><b>Keynotes</b></summary>
+<details><summary><b>Keynotes</b> (click to open)</summary>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -109,7 +109,7 @@
 </table>
 </details>
 
-<details><summary><b>Oral Research Presenters</b></summary>
+<details><summary><b>Oral Research Presenters</b> (click to open)</summary>
 
 
 <style type="text/css">
@@ -159,7 +159,7 @@
 </table></div>
 </details>
 
-<details><summary><b>Accepted Posters</b></summary>
+<details><summary><b>Accepted Posters</b> (click to open)</summary>
 
 *(More posters will be added soon)*
 1. AI Powered Process Improvement, Christine Custis*, NewPearl, Inc.
