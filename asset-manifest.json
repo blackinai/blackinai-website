@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b6b4abd2.chunk.css",
-    "main.js": "/static/js/main.58973041.chunk.js",
-    "main.js.map": "/static/js/main.58973041.chunk.js.map",
+    "main.js": "/static/js/main.637acea8.chunk.js",
+    "main.js.map": "/static/js/main.637acea8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
-    "static/js/2.e7981457.chunk.js": "/static/js/2.e7981457.chunk.js",
-    "static/js/2.e7981457.chunk.js.map": "/static/js/2.e7981457.chunk.js.map",
+    "static/js/2.0b3b4119.chunk.js": "/static/js/2.0b3b4119.chunk.js",
+    "static/js/2.0b3b4119.chunk.js.map": "/static/js/2.0b3b4119.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.45537b10d34e30511257708f97b23826.js": "/precache-manifest.45537b10d34e30511257708f97b23826.js",
+    "precache-manifest.ce3a8b85ce68a9230ad8cd439bd629f3.js": "/precache-manifest.ce3a8b85ce68a9230ad8cd439bd629f3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b6b4abd2.chunk.css.map": "/static/css/main.b6b4abd2.chunk.css.map",
-    "static/js/2.e7981457.chunk.js.LICENSE.txt": "/static/js/2.e7981457.chunk.js.LICENSE.txt",
+    "static/js/2.0b3b4119.chunk.js.LICENSE.txt": "/static/js/2.0b3b4119.chunk.js.LICENSE.txt",
     "static/media/AcademicPrograms.md": "/static/media/AcademicPrograms.58f373c9.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
     "static/media/BrandeisMarshall.jpg": "/static/media/BrandeisMarshall.b1b79cac.jpg",
@@ -45,6 +45,9 @@
     "static/media/amazon.png": "/static/media/amazon.68ef8503.png",
     "static/media/appCurvyLines.png": "/static/media/appCurvyLines.3a1df6c1.png",
     "static/media/apple.png": "/static/media/apple.deab0c9d.png",
+    "static/media/bai-img-11.jpg": "/static/media/bai-img-11.3c25ce83.jpg",
+    "static/media/bai-img-13.jpg": "/static/media/bai-img-13.27999d0a.jpg",
+    "static/media/bai-img-14.jpg": "/static/media/bai-img-14.a6c0e419.jpg",
     "static/media/bai-img-2.jpg": "/static/media/bai-img-2.2706d95f.jpg",
     "static/media/bai-img-4.JPG": "/static/media/bai-img-4.a49f8281.JPG",
     "static/media/bai-img-5.jpg": "/static/media/bai-img-5.3196e416.jpg",
@@ -62,6 +65,7 @@
     "static/media/image3.jpg": "/static/media/image3.747c47bb.jpg",
     "static/media/macArthur.png": "/static/media/macArthur.6918762b.png",
     "static/media/microsoft.png": "/static/media/microsoft.88f779ea.png",
+    "static/media/mirian.png": "/static/media/mirian.fb65e95d.png",
     "static/media/montreal_convention_centre.jpg": "/static/media/montreal_convention_centre.cc0a0fc9.jpg",
     "static/media/nvidia.png": "/static/media/nvidia.76e05a27.png",
     "static/media/oracle.png": "/static/media/oracle.ba87c66f.png",
@@ -74,8 +78,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.da3b7693.js",
-    "static/js/2.e7981457.chunk.js",
+    "static/js/2.0b3b4119.chunk.js",
     "static/css/main.b6b4abd2.chunk.css",
-    "static/js/main.58973041.chunk.js"
+    "static/js/main.637acea8.chunk.js"
   ]
 }
