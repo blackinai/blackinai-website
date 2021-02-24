@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4541d5e07f6c4a2c2bb2ea1cd273bc2",
+    "revision": "b79fcf5d1de8fe656e30915179033d48",
     "url": "/index.html"
   },
   {
-    "revision": "6ff4cea5a692c3219faa",
+    "revision": "e158219bd5ad53e29e64",
     "url": "/static/css/main.b6b4abd2.chunk.css"
   },
   {
-    "revision": "7715cc639401e352bf0f",
-    "url": "/static/js/2.0b3b4119.chunk.js"
+    "revision": "98c05f1cba898ca25745",
+    "url": "/static/js/2.04f0d89f.chunk.js"
   },
   {
     "revision": "d92352f3240d582e24240d523f35c7b2",
-    "url": "/static/js/2.0b3b4119.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.04f0d89f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ff4cea5a692c3219faa",
-    "url": "/static/js/main.637acea8.chunk.js"
+    "revision": "e158219bd5ad53e29e64",
+    "url": "/static/js/main.57bc0a09.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/CallForPapers2018.9b28a24a.md"
   },
   {
-    "revision": "b6a3711f6b3c1ed23691a7511b644f4c",
-    "url": "/static/media/CallForPapers2019.b6a3711f.md"
+    "revision": "6e9c7d40821015608211dd4f9420dae6",
+    "url": "/static/media/CallForPapers2019.6e9c7d40.md"
   },
   {
     "revision": "de6e3266fe71ba841ce39cdb3de11dac",
@@ -60,16 +60,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/EzinneNwanko.7143c736.jpg"
   },
   {
-    "revision": "bd330efcb216fcf08a38fb565de9be86",
-    "url": "/static/media/Grants2017.bd330efc.md"
+    "revision": "bb8983314bd4a5abf15684afff02e52c",
+    "url": "/static/media/Grants2017.bb898331.md"
   },
   {
-    "revision": "bd18c01c9df7881bae4779ff4fcbe376",
-    "url": "/static/media/Grants2018.bd18c01c.md"
+    "revision": "09c6195b3372cc2e3c38742831b1725f",
+    "url": "/static/media/Grants2018.09c6195b.md"
   },
   {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/static/media/Grants2019.d41d8cd9.md"
+    "revision": "e741758476a5ce76bb6e991a9ee20d79",
+    "url": "/static/media/Grants2019.e7417584.md"
   },
   {
     "revision": "f3b1bbd269dc0c3f80d27cb5dbc93652",
@@ -104,12 +104,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Organizers2018.399557f7.md"
   },
   {
+    "revision": "742f5360fd811716ed88124fda27b421",
+    "url": "/static/media/Organizers2019.742f5360.md"
+  },
+  {
     "revision": "2a5b5e6e2e8935fab1d0b453a5f2de68",
     "url": "/static/media/Programs2017.2a5b5e6e.md"
   },
   {
-    "revision": "9760e8dda8f8e3aaaffec199746b4e8c",
-    "url": "/static/media/Programs2018.9760e8dd.md"
+    "revision": "e88fb0183ac4aef498f30bf332d737ec",
+    "url": "/static/media/Programs2018.e88fb018.md"
+  },
+  {
+    "revision": "a039f01c458900ef7ec9c663b3dc46cd",
+    "url": "/static/media/Programs2019.a039f01c.md"
   },
   {
     "revision": "92384c8c4860e503f4b4c8d06f7641f0",
@@ -128,6 +136,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Sponsors2018.1fd3b7f9.md"
   },
   {
+    "revision": "389166365082969a2b401572058ae83b",
+    "url": "/static/media/Sponsors2019.38916636.md"
+  },
+  {
     "revision": "0c34380cee0601818cce712112e07d4b",
     "url": "/static/media/Submissions2017.0c34380c.md"
   },
@@ -136,8 +148,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Submissions2018.1c91c0bc.md"
   },
   {
+    "revision": "b5bc43a7e1777e01a41a309e0e00fb35",
+    "url": "/static/media/Submissions2019.b5bc43a7.md"
+  },
+  {
     "revision": "a5f821a357946bb371496a3b8a55aa36",
     "url": "/static/media/TimnitGebru.a5f821a3.jpg"
+  },
+  {
+    "revision": "59347f21a7fefb1a0c353eabd2537b68",
+    "url": "/static/media/academic_programs.59347f21.jpg"
   },
   {
     "revision": "675d63cc0f750402370f9ce2254d70de",
