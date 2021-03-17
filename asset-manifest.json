@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b6b4abd2.chunk.css",
-    "main.js": "/static/js/main.f1ae8915.chunk.js",
-    "main.js.map": "/static/js/main.f1ae8915.chunk.js.map",
+    "main.js": "/static/js/main.bc73eac0.chunk.js",
+    "main.js.map": "/static/js/main.bc73eac0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
-    "static/js/2.c80eec20.chunk.js": "/static/js/2.c80eec20.chunk.js",
-    "static/js/2.c80eec20.chunk.js.map": "/static/js/2.c80eec20.chunk.js.map",
+    "static/js/2.0a0acd09.chunk.js": "/static/js/2.0a0acd09.chunk.js",
+    "static/js/2.0a0acd09.chunk.js.map": "/static/js/2.0a0acd09.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.202cd21c5755cd037bfdcb8395f51973.js": "/precache-manifest.202cd21c5755cd037bfdcb8395f51973.js",
+    "precache-manifest.279866c11e15148e1a05d932b7185809.js": "/precache-manifest.279866c11e15148e1a05d932b7185809.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b6b4abd2.chunk.css.map": "/static/css/main.b6b4abd2.chunk.css.map",
-    "static/js/2.c80eec20.chunk.js.LICENSE.txt": "/static/js/2.c80eec20.chunk.js.LICENSE.txt",
+    "static/js/2.0a0acd09.chunk.js.LICENSE.txt": "/static/js/2.0a0acd09.chunk.js.LICENSE.txt",
     "static/media/AcademicPrograms.md": "/static/media/AcademicPrograms.58f373c9.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
     "static/media/BrandeisMarshall.jpg": "/static/media/BrandeisMarshall.b1b79cac.jpg",
@@ -65,7 +65,6 @@
     "static/media/deepmind.png": "/static/media/deepmind.d52cbd52.png",
     "static/media/facebook.png": "/static/media/facebook.29b3c912.png",
     "static/media/fordfoundation.png": "/static/media/fordfoundation.3c97a11c.png",
-    "static/media/google.png": "/static/media/google.10588e25.png",
     "static/media/image2.jpg": "/static/media/image2.b92980bf.jpg",
     "static/media/image3.jpg": "/static/media/image3.747c47bb.jpg",
     "static/media/macArthur.png": "/static/media/macArthur.6918762b.png",
@@ -83,8 +82,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.da3b7693.js",
-    "static/js/2.c80eec20.chunk.js",
+    "static/js/2.0a0acd09.chunk.js",
     "static/css/main.b6b4abd2.chunk.css",
-    "static/js/main.f1ae8915.chunk.js"
+    "static/js/main.bc73eac0.chunk.js"
   ]
 }
