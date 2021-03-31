@@ -6,4 +6,4 @@ Our initial program will be piloted with one early stage team from the community
 
 
 #### Point of contact
-`entrepreneurship@blackinai.org`
+### entrepreneurship@blackinai.org

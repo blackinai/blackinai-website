@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ff96db0dd50f4274dc125ec5ee956c7",
+    "revision": "89404dab0247ce40fb10d0687a2f21ca",
     "url": "/index.html"
   },
   {
-    "revision": "5b61270f8ebe4ce7f704",
+    "revision": "d1995762669891e4f0b4",
     "url": "/static/css/main.b6b4abd2.chunk.css"
   },
   {
-    "revision": "df5e4a59b6598c09c0e9",
-    "url": "/static/js/2.79788431.chunk.js"
+    "revision": "287002fa58af3e468a29",
+    "url": "/static/js/2.c3c3aa22.chunk.js"
   },
   {
     "revision": "d92352f3240d582e24240d523f35c7b2",
-    "url": "/static/js/2.79788431.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c3c3aa22.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5b61270f8ebe4ce7f704",
-    "url": "/static/js/main.88ebb665.chunk.js"
+    "revision": "d1995762669891e4f0b4",
+    "url": "/static/js/main.a9e5d623.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/DevinGuillory.32066185.jpg"
   },
   {
-    "revision": "e66ae9908f6f1eeeb10e8a35cbb25e55",
-    "url": "/static/media/EntrepreneurshipProgram.e66ae990.md"
+    "revision": "07808f546cbbe0cd4c1ed31704e214bc",
+    "url": "/static/media/EntrepreneurshipProgram.07808f54.md"
   },
   {
     "revision": "7143c736a3bdca82744c68094b3cbde7",
@@ -164,6 +164,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Submissions2019.b5bc43a7.md"
   },
   {
+    "revision": "19bae1aa75fbfdc41d6fc8704e1f3094",
+    "url": "/static/media/SummerResearchPrograms.19bae1aa.md"
+  },
+  {
     "revision": "a5f821a357946bb371496a3b8a55aa36",
     "url": "/static/media/TimnitGebru.a5f821a3.jpg"
   },
@@ -202,6 +206,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6c0e419a8651b18e649420102bc423c",
     "url": "/static/media/bai-img-14.a6c0e419.jpg"
+  },
+  {
+    "revision": "e80868e2a289b272eec65c6f15ad6d2d",
+    "url": "/static/media/bai-img-15.e80868e2.jpg"
   },
   {
     "revision": "2706d95fdf91aabdf8edc3a854b1914e",
