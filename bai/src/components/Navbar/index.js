@@ -214,7 +214,7 @@ function Navbar(props) {
                 </Toolbar>
                 <div className={classes.iconContainer}>
                     <React.Fragment key='right'>
-                        <IconButton color="#e8f6fb" aria-label="open drawer" edge="end" onClick={toggleDrawer('right', true)}
+                        <IconButton color="primary" aria-label="open drawer" edge="end" onClick={toggleDrawer('right', true)}
                             className={clsx(mobileOpen && classes.hide)}>
                             <MenuIcon />
                             <div className={classes.left}>{brandComponent}</div>

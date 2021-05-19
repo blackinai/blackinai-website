@@ -23,9 +23,8 @@ const styles = (theme) => ({
     },
     cardMedia: {
         flexGrow: 1,
-        height: 400,
+        height: 380,
         color: theme.palette.common.white,
-        backgroundImage: 'url(image)',
         display: 'flex',
         flexWrap: 'wrap',
         position: 'relative',
@@ -59,15 +58,16 @@ function HomeBody(props) {
     const { classes } = props;
 
     return (
-        <Container className={classes.container}>
-            <Grid container>
-                <Grid item xs={12} className={classes.container}>
-                    <Grid item xs={12}>
-                        <Container className={classes.cardMedia} style={{ backgroundImage: `url(${image1})` }}>    
-                            {<img style={{ display: 'none' }} alt="" src={image1} />}
-                        </Container>
+        <Container className={classes.root}> 
+        
+        <Container className={classes.root}> 
+            <Grid container spacing={3}>
+                <Grid item xs={12} className={classes.container}>    
+                    <Grid item xs={12} md={6}>
+                        <CardMedia component="img" className={classes.cardMedia} image={image1}>
+                        </CardMedia>
                     </Grid>
-                    <Grid item xs={12} className={classes.cardText}>
+                    <Grid item xs={12} md={6} className={classes.cardText}>
                         <Typography variant="h4" align="center" marked="center" className={classes.title}>
                             Fostering an including, end-to-end ecosystem
                         </Typography>
@@ -81,7 +81,12 @@ function HomeBody(props) {
                         </ColorButton>
                     </Grid>
                 </Grid>
-                <Grid item xs={12} className={classes.container}>
+            </Grid>
+        </Container>
+        
+        <Container className={classes.root}> 
+            <Grid container spacing={3}>
+                <Grid item xs={12} className={classes.container}>    
                     <Grid item xs={12} className={classes.cardText}>
                         <Typography variant="h4" align="center" marked="center" className={classes.title}>
                             A vibrant online community
@@ -120,6 +125,9 @@ function HomeBody(props) {
                 </Grid>
             </Grid>
         </Container>
+
+        </Container> 
+        
     );
 }
 

@@ -6,7 +6,7 @@ import React from 'react';
 import Typography from './../Typography';
 
 
-const useStyles = makeStyles((theme) => ({
+const styles = (theme) => ({
     root: {
         display: 'flex',
         backgroundColor: theme.palette.primary.dark,
@@ -38,7 +38,7 @@ const useStyles = makeStyles((theme) => ({
         margin: theme.spacing(1),
         borderRadius: "40px",
     }
-}));
+});
 
 function Copyright() {
     return (
@@ -72,7 +72,7 @@ function Donate(){
 }
 
 function Footer(props) {
-    const classes = useStyles();
+    const { classes } = props;
 
     const socialList = [
         { id: 1, name: "Facebook", link: 'https://www.facebook.com/blackinai', image: <FontAwesomeIcon icon={["fab", "facebook"]} /> },
@@ -177,4 +177,4 @@ Footer.propTypes = {
     classes: PropTypes.object.isRequired,
 };
 
-export default Footer;
+export default withStyles(styles)(Footer);
