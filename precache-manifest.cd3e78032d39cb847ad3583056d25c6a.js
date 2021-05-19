@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9873551b080799513ddcd18e8a6b713d",
+    "revision": "32101a26bfb59c86c932057174201ed2",
     "url": "/index.html"
   },
   {
-    "revision": "1458aa1a3085ecd9b99b",
+    "revision": "f2331c6feefd981b2c87",
     "url": "/static/css/main.b6b4abd2.chunk.css"
   },
   {
-    "revision": "287002fa58af3e468a29",
-    "url": "/static/js/2.c3c3aa22.chunk.js"
+    "revision": "d7db6444a8cdc16c930a",
+    "url": "/static/js/2.ca48ac13.chunk.js"
   },
   {
-    "revision": "d92352f3240d582e24240d523f35c7b2",
-    "url": "/static/js/2.c3c3aa22.chunk.js.LICENSE.txt"
+    "revision": "07e7d93b3ea2e95bc7f9f8835c2e3482",
+    "url": "/static/js/2.ca48ac13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1458aa1a3085ecd9b99b",
-    "url": "/static/js/main.80523b7e.chunk.js"
+    "revision": "f2331c6feefd981b2c87",
+    "url": "/static/js/main.4975f57e.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -108,6 +108,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MakindeAdeagbo.a99cc451.jpeg"
   },
   {
+    "revision": "767658963e9e0f6b813cfc94f5fd395e",
+    "url": "/static/media/NAACL2021.76765896.md"
+  },
+  {
     "revision": "14992bd2ea1c435a7642929572a49851",
     "url": "/static/media/Organizers2017.14992bd2.md"
   },
@@ -118,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "742f5360fd811716ed88124fda27b421",
     "url": "/static/media/Organizers2019.742f5360.md"
+  },
+  {
+    "revision": "7f6d73e9896249e6fc0da046fea654aa",
+    "url": "/static/media/PressRoom.7f6d73e9.md"
   },
   {
     "revision": "2a5b5e6e2e8935fab1d0b453a5f2de68",
@@ -192,6 +200,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/apple.deab0c9d.png"
   },
   {
+    "revision": "9b1dddf58a76db46590e9706bf401d38",
+    "url": "/static/media/bai-img-10.9b1dddf5.jpg"
+  },
+  {
     "revision": "3c25ce8310bfe4b399c2b4637b1f30b8",
     "url": "/static/media/bai-img-11.3c25ce83.jpg"
   },
@@ -252,6 +264,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bmo.e2a27069.png"
   },
   {
+    "revision": "ed75bc60a65276994347dcf5ab50cee5",
+    "url": "/static/media/cidade_do_mexico.ed75bc60.jpg"
+  },
+  {
+    "revision": "77db7a77da35a093eef2e1ab0f54ee18",
+    "url": "/static/media/convention_centre_sydney.77db7a77.jpeg"
+  },
+  {
     "revision": "d52cbd521926bfbec1fbe523bd9f34bc",
     "url": "/static/media/deepmind.d52cbd52.png"
   },
@@ -302,6 +322,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "aa4948c05b4739b3530d43cfe0cb9b5c",
     "url": "/static/media/salesforce.aa4948c0.png"
+  },
+  {
+    "revision": "04bf3a6d75b1cade0b6be1f49b1f8e6e",
+    "url": "/static/media/temp_file.04bf3a6d.md"
   },
   {
     "revision": "01aa3baecb7c8e9d66b619635dedf2ce",
