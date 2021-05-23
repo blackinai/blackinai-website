@@ -14,7 +14,7 @@ We will be operating with the official NAACL Code of Conduct, please read [here]
 
 - Speed Networking (Glimpse)
 - Karaoke presentations (Ohyay)
-- Code Bias Documentary Discussion (Zoom)
+- Discussion (topic will be updated soon) (Zoom)
 
 ## Social Organizers 
 
