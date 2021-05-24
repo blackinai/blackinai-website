@@ -1,7 +1,7 @@
 ### 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics
 #### The Conference will take place on June 6–11, 2021. 
 
-## Black in AI Social: Sing in & General Informations
+## Black in AI Social: Sign in & General Informations
 - Sunday 2021-06-06   9:00 - 11:00 AM (PDT)/4 PM GMT  [(convert to your timezone)](https://www.timeanddate.com/worldclock/converter.html)
 - **Sign up for the social <a href="https://forms.gle/W3M69VPu9kVn1oew8" target="_blank">here</a>**
 
