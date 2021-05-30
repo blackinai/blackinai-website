@@ -111,7 +111,7 @@ const blackinAIBoard = [
     },
     {
         image: require('./../../assets/img/team/EzinneNwanko.jpg'),
-        name: 'Ezinne Nwanko', 
+        name: 'Ezinne Nwankwo', 
         link: 'https://www.linkedin.com/in/ezinne-nwankwo-119586101/',
         icon: <FontAwesomeIcon icon={["fab", "linkedin"]} size="1x"/>,
     },

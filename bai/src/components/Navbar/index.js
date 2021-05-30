@@ -7,6 +7,7 @@ import { AppBar, Toolbar, Button } from '@material-ui/core';
 import MenuIcon from '@material-ui/icons/Menu';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import logo from './../../assets/img/bai-logo.png';
+import CustomDropdown from './../CustomDropdown';
 
 export const toolbarStyles = (theme) => ({
     root: {
@@ -82,6 +83,15 @@ const styles = (theme) => ({
         paddingTop: theme.spacing(2),
         color: theme.palette.primary.dark,
     },
+    dropdownLink: {
+        "&,&:hover,&:focus": {
+            color: "inherit",
+            textDecoration: "none",
+            display: "block",
+            padding: "10px 20px",
+            fontSize: theme.typography.fontSize,
+        },
+    }
 });
 
 const ColorButton = withStyles((theme) => ({
@@ -127,25 +137,46 @@ function Navbar(props) {
             path: '/#/programs',
         },
         {
-            text: 'Membership',
-            path: '/#/membership',
+            text: 'Opportunities',
+            path: [
+                {
+                    text: 'Membership',
+                    path: '/#/membership',
+                },
+                {
+                    text: 'Partnership',
+                    path: '/#/partnership',
+                },
+                {
+                    text: 'Share Job Opportunities',
+                    path: 'https://docs.google.com/forms/d/e/1FAIpQLSdMcCerEXj45B_FrCrbIMhTHAO4MU5n00tl978a_bRFTfRanw/viewform',
+                }    
+            ],
         },
         {
-            text: 'Partnership',
-            path: '/#/partnership',
+            text: 'Community Events',
+            path: [
+                {
+                    text: 'BAI Social NAACL 2021 ',
+                    path: '/#/events/social-naacl-2021',
+                },
+                {
+                    text: 'BAI Workshops',
+                    path: '/#/conferences',
+                },
+                {
+                    text: 'Calendar',
+                    path: '/#/calendar',
+                }
+            ],
         },
-        /* {
-            text: 'Media',
+        {
+            text: 'Media', //Press Room
             path: '/#/media',
-        }, */
+        },
     ]
 
-    const [mobileOpen, setMobileOpen] = React.useState({
-        top: false,
-        left: false,
-        bottom: false,
-        right: false,
-    });
+    const [mobileOpen, setMobileOpen] = React.useState(false);
 
     const toggleDrawer = (anchor, open) => (event) => {
         if (event.type === 'keydown' && (event.key === 'Tab' || event.key === 'Shift')) {
@@ -164,11 +195,25 @@ function Navbar(props) {
     const list = (anchor) => (
         <div className={clsx(classes.list, { [classes.fullList]: anchor === 'top' || anchor === 'bottom', })}
             role="presentation"
-            onClick={toggleDrawer(anchor, false)}
+            onClick={toggleDrawer(anchor, true)}
             onKeyDown={toggleDrawer(anchor, false)}>
             <div className={classes.right}>{brandComponent}</div>
             <List>
                 {navLinks.map((link, index) =>
+                    Array.isArray(link.path)
+                    ?   
+                    <ListItem>
+                        <CustomDropdown noLiPadding buttonText={link.text}
+                            dropdownList={[
+                                link.path.map((sublink, idx) => 
+                                    <Link color="inherit" variant="h5" underline="none" className={classes.dropdownLink} href={sublink.path}>
+                                        {sublink.text}
+                                    </Link>
+                                )
+                            ]} />
+                    </ListItem>
+                            
+                    :   
                     <ListItem>
                         <Link color="inherit" variant="h5" underline="none" className={classes.rightLink}
                             href={link.path}>
@@ -200,11 +245,22 @@ function Navbar(props) {
                     <div className={classes.left}>{brandComponent}</div>
                     <React.Fragment>
                         <div className={classes.right}>
-                            {navLinks.map((link, index) =>
-                                <Link color="inherit" variant="h5" underline="none" className={classes.rightLink}
-                                    href={link.path}>
-                                    {link.text}
-                                </Link>
+                            {navLinks.map((link, index) => 
+                                Array.isArray(link.path)
+                                ?   
+                                    <CustomDropdown noLiPadding buttonText={link.text}
+                                        dropdownList={[
+                                            link.path.map((sublink, idx) => 
+                                                <Link color="inherit" variant="h5" underline="none" className={classes.dropdownLink} href={sublink.path}>
+                                                    {sublink.text}
+                                                </Link>
+                                            )
+                                        ]} />
+                                        
+                                :   <Link color="inherit" variant="h5" underline="none" className={classes.rightLink}
+                                        href={link.path}>
+                                        {link.text}
+                                    </Link>        
                             )}
                             <ColorButton className={classes.chip} size="small">
                                 <Donate />
@@ -224,7 +280,6 @@ function Navbar(props) {
                         </Drawer>
                     </React.Fragment>
                 </div>
-
             </AppBar>
             <div className={classes.placeholder} />
         </div>

@@ -5,22 +5,20 @@ import * as React from 'react';
 const styles = (theme) => ({
     root: {
         borderRadius: 0,
-        fontWeight: theme.typography.fontWeightMedium,
-        fontFamily: theme.typography.h1.fontFamily,
-        padding: theme.spacing(2, 4),
-        fontSize: theme.typography.pxToRem(14),
-        boxShadow: 'none',
-        '&:active, &:focus': {
-            boxShadow: 'none',
-        },
+        fontFamily: theme.typography.fontFamily,
+        fontSize: theme.typography.fontSize,
+        textTransform: 'none',
+        marginLeft: theme.spacing(4),
+        paddingTop: theme.spacing(1.6),
+        // boxShadow: 'none',
     },
     sizeSmall: {
-        padding: theme.spacing(1, 3),
-        fontSize: theme.typography.pxToRem(13),
+        // padding: theme.spacing(1, 3),
+        fontSize: theme.typography.pxToRem(12),
     },
     sizeLarge: {
-        padding: theme.spacing(2, 5),
-        fontSize: theme.typography.pxToRem(16),
+        // padding: theme.spacing(2, 5),
+        fontSize: theme.typography.fontSize,
     },
 });
 

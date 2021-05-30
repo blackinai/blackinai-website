@@ -14,8 +14,8 @@ function Programs() {
             <Loader />
             <Navbar />
             <ProgramsHeader/>
-            <ProgramsBody/>
             <ProgramsList/>
+            <ProgramsBody/>
             <Footer />
         </ThemeProvider>
     );

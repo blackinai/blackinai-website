@@ -9,7 +9,7 @@ const styles = (theme) => ({
     root: {
         display: 'flex',
         overflow: 'hidden',
-        backgroundColor: theme.palette.primary.light,
+        backgroundColor: theme.palette.secondary.light,
     },
     container: {
         marginTop: theme.spacing(10),
@@ -29,7 +29,10 @@ const styles = (theme) => ({
         height: 180,
     },
     card: {
-        maxWidth: 300,
+        // maxWidth: 300,
+        display: 'flex',
+        overflow: 'hidden',
+        backgroundColor: theme.palette.primary.light,
     },
     title: {
         marginTop: theme.spacing(5),
@@ -132,10 +135,15 @@ function ProgramsList(props) {
     return (
         <section className={classes.root}>
             <Container className={classes.container}>
+                <Grid item xs={12}>
+                    <Typography variant="h2" marked="center" align="center" color="secondary" className={classes.title}>
+                        BAI Programs
+                    </Typography>
+                </Grid>
                 <Grid container spacing={4}>
                     {eachProgramOne.map((key) => (
                         <Grid container item xs={12} md={6}>
-                            <Card className={classes.root}>
+                            <Card className={classes.card}>
                                 <div className={classes.details}>
                                     <CardMedia className={classes.media} image={key.img} title={key.title} />
                                     <CardContent className={classes.content}>
@@ -157,7 +165,7 @@ function ProgramsList(props) {
                     ))}
                     {eachProgramTwo.map((key) => (
                         <Grid container item xs={12} md={4}>
-                            <Card className={classes.root}>
+                            <Card className={classes.card}>
                                 <div className={classes.details}>
                                     <CardMedia className={classes.media} image={key.img} title={key.title} />
                                     <CardContent className={classes.content}>

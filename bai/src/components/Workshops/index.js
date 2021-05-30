@@ -111,6 +111,12 @@ function Workshops(props) {
             width: '100%',
             url: 'https://blackinai2020.vercel.app/',
         },
+        {
+            img: require('./../../assets/img/general/convention_centre_sydney.jpeg'),
+            title: 'Black in AI 2021 - Comming Soon',
+            width: '100%',
+            url: 'https://nips.cc/Conferences/2021/',
+        },
     ];
 
     return (
