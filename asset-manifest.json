@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b6b4abd2.chunk.css",
-    "main.js": "/static/js/main.6d417fc2.chunk.js",
-    "main.js.map": "/static/js/main.6d417fc2.chunk.js.map",
+    "main.js": "/static/js/main.92923920.chunk.js",
+    "main.js.map": "/static/js/main.92923920.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
-    "static/js/2.ca48ac13.chunk.js": "/static/js/2.ca48ac13.chunk.js",
-    "static/js/2.ca48ac13.chunk.js.map": "/static/js/2.ca48ac13.chunk.js.map",
+    "static/js/2.ecb286c3.chunk.js": "/static/js/2.ecb286c3.chunk.js",
+    "static/js/2.ecb286c3.chunk.js.map": "/static/js/2.ecb286c3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0b8e1eab1ede5b60a10967e65d744bbc.js": "/precache-manifest.0b8e1eab1ede5b60a10967e65d744bbc.js",
+    "precache-manifest.7681b5623f556f6b211a44a10297a8c9.js": "/precache-manifest.7681b5623f556f6b211a44a10297a8c9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b6b4abd2.chunk.css.map": "/static/css/main.b6b4abd2.chunk.css.map",
-    "static/js/2.ca48ac13.chunk.js.LICENSE.txt": "/static/js/2.ca48ac13.chunk.js.LICENSE.txt",
+    "static/js/2.ecb286c3.chunk.js.LICENSE.txt": "/static/js/2.ecb286c3.chunk.js.LICENSE.txt",
     "static/media/AcademicPrograms.md": "/static/media/AcademicPrograms.58f373c9.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.aa162cc2.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
@@ -77,6 +77,7 @@
     "static/media/deepmind.png": "/static/media/deepmind.d52cbd52.png",
     "static/media/facebook.png": "/static/media/facebook.29b3c912.png",
     "static/media/fordfoundation.png": "/static/media/fordfoundation.3c97a11c.png",
+    "static/media/hai.png": "/static/media/hai.35a08513.png",
     "static/media/image2.jpg": "/static/media/image2.b92980bf.jpg",
     "static/media/macArthur.png": "/static/media/macArthur.6918762b.png",
     "static/media/microsoft.png": "/static/media/microsoft.88f779ea.png",
@@ -94,8 +95,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.da3b7693.js",
-    "static/js/2.ca48ac13.chunk.js",
+    "static/js/2.ecb286c3.chunk.js",
     "static/css/main.b6b4abd2.chunk.css",
-    "static/js/main.6d417fc2.chunk.js"
+    "static/js/main.92923920.chunk.js"
   ]
 }
