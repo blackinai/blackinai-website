@@ -24,6 +24,25 @@ Game time! In this game, we look forward to your engagement. We will have a slid
 
 To end our social, we will have 30 minutes of open discussion about African languages ​​in the NLP ecosystem and we will have African panelists to foster our open debate. Join us! 
 
+Moderator: 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://pbs.twimg.com/profile_images/1398702042525339650/Zc5dA88c_400x400.jpg"        
+        alt="Bonaventure Dossou"
+        style="width: 150px; height: 150px; object-fit:cover; border-radius: 50%; border: solid 1px;"/>
+    </td>
+    <td>
+      <b>Bonaventure Dossou</b>
+      </br>
+      Bonaventure Dossou is Co-initiator @edAIOfficial and MSc + Innovation Award 2021 @jacobs_bremen.
+      AfricanNLP from Masakhane NLP & Deep Learning Research Intern Mila Quebec. 
+    </td>
+  </tr>
+</table>
+
+
 Meet our guests: 
 
 <table>
