@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23d2f9930aaaddb0781c250e1b6faca5",
+    "revision": "07c1ac8be32b5d1f4e40b96804188bb1",
     "url": "/index.html"
   },
   {
-    "revision": "d9c7ba71d2ad41225f19",
+    "revision": "05e7fac7371ab3e4c9a0",
     "url": "/static/css/main.b6b4abd2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.768ab151.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9c7ba71d2ad41225f19",
-    "url": "/static/js/main.6ba5541b.chunk.js"
+    "revision": "05e7fac7371ab3e4c9a0",
+    "url": "/static/js/main.2ac98668.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -344,8 +344,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/vancouver_neurips_2020.908e06c1.jpg"
   },
   {
-    "revision": "b7e37453f6f29d6d9912fc2130f6b30f",
-    "url": "/static/media/victor.b7e37453.jpg"
+    "revision": "d45e72f5c0fad83db92ab2b29aae14b4",
+    "url": "/static/media/victor.d45e72f5.jpg"
   },
   {
     "revision": "b1409dc971e1902e38d2147fec0455ad",
