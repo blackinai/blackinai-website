@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68498baab71506a935977cec1d244fc2",
+    "revision": "23d2f9930aaaddb0781c250e1b6faca5",
     "url": "/index.html"
   },
   {
-    "revision": "a93e962d260df3c61b6a",
+    "revision": "d9c7ba71d2ad41225f19",
     "url": "/static/css/main.b6b4abd2.chunk.css"
   },
   {
-    "revision": "2ecee6711e658705186b",
-    "url": "/static/js/2.a33fdf97.chunk.js"
+    "revision": "87a46ec054c19c921163",
+    "url": "/static/js/2.768ab151.chunk.js"
   },
   {
     "revision": "07e7d93b3ea2e95bc7f9f8835c2e3482",
-    "url": "/static/js/2.a33fdf97.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.768ab151.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a93e962d260df3c61b6a",
-    "url": "/static/js/main.5c48778a.chunk.js"
+    "revision": "d9c7ba71d2ad41225f19",
+    "url": "/static/js/main.6ba5541b.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -342,6 +342,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "908e06c1bb1c222c65273a5de7377b3a",
     "url": "/static/media/vancouver_neurips_2020.908e06c1.jpg"
+  },
+  {
+    "revision": "b7e37453f6f29d6d9912fc2130f6b30f",
+    "url": "/static/media/victor.b7e37453.jpg"
   },
   {
     "revision": "b1409dc971e1902e38d2147fec0455ad",

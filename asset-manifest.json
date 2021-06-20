@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b6b4abd2.chunk.css",
-    "main.js": "/static/js/main.5c48778a.chunk.js",
-    "main.js.map": "/static/js/main.5c48778a.chunk.js.map",
+    "main.js": "/static/js/main.6ba5541b.chunk.js",
+    "main.js.map": "/static/js/main.6ba5541b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da3b7693.js",
     "runtime-main.js.map": "/static/js/runtime-main.da3b7693.js.map",
-    "static/js/2.a33fdf97.chunk.js": "/static/js/2.a33fdf97.chunk.js",
-    "static/js/2.a33fdf97.chunk.js.map": "/static/js/2.a33fdf97.chunk.js.map",
+    "static/js/2.768ab151.chunk.js": "/static/js/2.768ab151.chunk.js",
+    "static/js/2.768ab151.chunk.js.map": "/static/js/2.768ab151.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.17095727d5f7ceaa7b632a962456671c.js": "/precache-manifest.17095727d5f7ceaa7b632a962456671c.js",
+    "precache-manifest.25a9e8f6cb9025d2dae8390401e4b1ec.js": "/precache-manifest.25a9e8f6cb9025d2dae8390401e4b1ec.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b6b4abd2.chunk.css.map": "/static/css/main.b6b4abd2.chunk.css.map",
-    "static/js/2.a33fdf97.chunk.js.LICENSE.txt": "/static/js/2.a33fdf97.chunk.js.LICENSE.txt",
+    "static/js/2.768ab151.chunk.js.LICENSE.txt": "/static/js/2.768ab151.chunk.js.LICENSE.txt",
     "static/media/AcademicPrograms.md": "/static/media/AcademicPrograms.58f373c9.md",
     "static/media/Advocacy.md": "/static/media/Advocacy.aa162cc2.md",
     "static/media/AyannaHoward.jpg": "/static/media/AyannaHoward.4d8bb838.jpg",
@@ -92,13 +92,14 @@
     "static/media/temp_file.md": "/static/media/temp_file.64083abf.md",
     "static/media/vancouver_convention_center.jpg": "/static/media/vancouver_convention_center.01aa3bae.jpg",
     "static/media/vancouver_neurips_2020.jpg": "/static/media/vancouver_neurips_2020.908e06c1.jpg",
+    "static/media/victor.jpg": "/static/media/victor.b7e37453.jpg",
     "static/media/vienna.jpeg": "/static/media/vienna.b1409dc9.jpeg",
     "static/media/young-black-women-talking.jpg": "/static/media/young-black-women-talking.8caf796d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.da3b7693.js",
-    "static/js/2.a33fdf97.chunk.js",
+    "static/js/2.768ab151.chunk.js",
     "static/css/main.b6b4abd2.chunk.css",
-    "static/js/main.5c48778a.chunk.js"
+    "static/js/main.6ba5541b.chunk.js"
   ]
 }
