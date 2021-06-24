@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07c1ac8be32b5d1f4e40b96804188bb1",
+    "revision": "926cecc76db2b2b2157549b98c3e52f9",
     "url": "/index.html"
   },
   {
-    "revision": "05e7fac7371ab3e4c9a0",
-    "url": "/static/css/main.b6b4abd2.chunk.css"
+    "revision": "a82dbc5abe6f58db9338",
+    "url": "/static/css/main.615b23a3.chunk.css"
   },
   {
     "revision": "87a46ec054c19c921163",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.768ab151.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05e7fac7371ab3e4c9a0",
-    "url": "/static/js/main.2ac98668.chunk.js"
+    "revision": "a82dbc5abe6f58db9338",
+    "url": "/static/js/main.47615f3b.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/HassanKane.c6ffa442.jpg"
   },
   {
-    "revision": "f44a1ef0ec5b52c77d6186514c249d34",
-    "url": "/static/media/ICML2021.f44a1ef0.md"
+    "revision": "5f85f41ab654b9c2fbd78570864e190c",
+    "url": "/static/media/ICML2021.5f85f41a.md"
   },
   {
     "revision": "57408b9d07d93a25c84f5a52f904d6e9",
