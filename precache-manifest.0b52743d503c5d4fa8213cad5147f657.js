@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ef9c80aa530bf6150162a2351dcb73b",
+    "revision": "51680191ea3dece9705755dc41178a0a",
     "url": "/index.html"
   },
   {
-    "revision": "a4c969e067ac285ad3d0",
+    "revision": "0a91277b46ccf90bb567",
     "url": "/static/css/main.615b23a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.cf72bd4e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a4c969e067ac285ad3d0",
-    "url": "/static/js/main.72211078.chunk.js"
+    "revision": "0a91277b46ccf90bb567",
+    "url": "/static/js/main.df846e20.chunk.js"
   },
   {
     "revision": "5ff3d6cf6ffa33b734d8",
@@ -128,8 +128,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Organizers2019.742f5360.md"
   },
   {
-    "revision": "7f6d73e9896249e6fc0da046fea654aa",
-    "url": "/static/media/PressRoom.7f6d73e9.md"
+    "revision": "5523fc0a4e03eb70ddc1b46d28049a0d",
+    "url": "/static/media/PressRoom.5523fc0a.md"
   },
   {
     "revision": "2a5b5e6e2e8935fab1d0b453a5f2de68",

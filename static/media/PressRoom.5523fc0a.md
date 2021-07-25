@@ -1,4 +1,7 @@
-##### Last updated on May 19, 2021
+##### Last updated on Jul 25, 2021
+
+### Black in AI Community Announcements
+- <a href="https://nbviewer.jupyter.org/github/blackinai/blackinai.github.io/blob/main/bai/src/files/BlackinAIPresident.pdf" target="_blank">Announcing New President of Black in AI</a>
 
 ### General talking about Black in AI
 - [How one conference embraced diversity - Improvements to an AI event accused of sexism are long overdue](https://www.nature.com/articles/d41586-018-07718-x)
