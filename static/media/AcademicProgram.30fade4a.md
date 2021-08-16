@@ -19,7 +19,7 @@ On this page we will answer frequently asked questions and provide opportunities
 If you are interested in supporting us by volunteering your time as a mentor, donating to the program, or supporting us with our advocacy, please reach out to the organizers
 
 ### Contact:
-` bai-acad-team@googlegroups.com `
+` academic@blackinai.org `
 
 ### Organizers:
 - Rediet Abebe, University of California at Berkeley
@@ -44,11 +44,11 @@ If you are interested in supporting us by volunteering your time as a mentor, do
 
 - **How can I support this program as an academic?**
 
-*You can sign up to mentor by first joining the Black in AI group here, then reaching out to us at `bai-acad-team@googlegroups.com`*
+*You can sign up to mentor by first joining the Black in AI group here, then reaching out to us at `academic@blackinai.org`*
 
 - **How can my organization support the program?**
 
-*For partnership and sponsorship, please email us at `bai-acad-team@googlegroups.com`*
+*For partnership and sponsorship, please email us at `academic@blackinai.org`*
 
 - **How can I advertise graduate student, postdoctoral fellowship, faculty, or research scientist positions at my institutions?**
 
